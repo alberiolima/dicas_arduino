@@ -1,3 +1,8 @@
+/*
+ * Desenvolvido por F Alberio Lima
+ * 
+ * 
+ */
 #include <DS1307.h>
 
 #define portaLuz 3
