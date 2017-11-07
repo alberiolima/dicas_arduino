@@ -1,6 +1,6 @@
 /*
  * Desenvolvido por F Alberio Lima
- * 
+ * Meu canal no youtube: https://www.youtube.com/c/alberiolima
  * 
  */
 #include <DS1307.h>
